@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @officialrenx
+- 👋 Hi, I’m Bagas Tri Hadmodjo S.Kom
 - 👀 I’m interested in Front-End Developer
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently working at PT. SKI Abiyosoft Yogyakarta
 - 💞️ I’m looking to be a honestly my life
 - 📫 How to reach me on this goal life! Tatakae!
 
